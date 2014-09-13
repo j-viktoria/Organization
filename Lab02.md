@@ -4,7 +4,7 @@
 
 * Variant 5 Sirotko 
 
-* Variant 6 Grinchenko
+* Variant 6 Grinchenko Linnik
 
 * Variant 7 Leonchik
 
