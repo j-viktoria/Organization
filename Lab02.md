@@ -2,9 +2,9 @@
 
 * Variant 4 Hotynyuk Kostyukov Smolskaya
 
-* Variant 5 Sirotko 
+* Variant 5 Sirotko Fomich
 
-* Variant 6 Grinchenko Linnik
+* Variant 6 Grinchenko
 
 * Variant 7 Leonchik
 
