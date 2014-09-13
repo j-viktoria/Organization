@@ -8,7 +8,7 @@
 
 * Variant 7 Leonchik
 
-* Variant 8
+* Variant 8 Kolbasuk
 
 * Variant 9 Puzanova
 
